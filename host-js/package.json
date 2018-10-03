@@ -7,7 +7,6 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "lib": "file:../lib",
     "vue": "^2.5.17"
   },
   "devDependencies": {
